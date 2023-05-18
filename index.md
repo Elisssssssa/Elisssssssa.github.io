@@ -70,4 +70,21 @@ Video
 Earth Lander
 ========================================            
             
-[Play!](Elissa_Earth_lander_webgl_v2/index.html)            
+[Play!](Elissa_Earth_lander_webgl_v2/index.html) 
+
+Special about this game
+------------------------------------
+
+  * Only use three key to control the lander
+  * Two enemy rocket
+  * Land on the Earth in perfect speed and right rotation
+  * Very hard!!!
+
+How to win this game?
+------------------------------------
+
+  Control the player lander to land on Earth perfectly, 
+  it means you have to let the lander land slowly on the Earth, 
+  and also keep the rotation of the lander in 20.
+  
+
