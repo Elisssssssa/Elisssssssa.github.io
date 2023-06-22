@@ -86,5 +86,9 @@ How to win this game?
   Control the player lander to land on Earth perfectly, 
   it means you have to let the lander land slowly on the Earth, 
   and also keep the rotation of the lander in 20.
-  
 
+
+  
+Maze
+========================================                   
+[Play!](Elissa_maze_webgl4/index.html) 
