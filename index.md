@@ -92,3 +92,43 @@ How to win this game?
 Maze
 ========================================                   
 [Play!](Elissa_maze_webgl4/index.html) 
+
+Things to prepare in this game
+------------------------------------
+
+* Build the maze(easy but takes a long time)
+* Player
+* Pickup
+* Mission
+* Door
+* Obstacle(make the game more difficult)
+
+
+Special about this game
+------------------------------------
+
+* 3D Game
+* First Perspective(can make you feel that you are inthe real maze)
+* Math Mission
+* Obstacle
+* Exciting!!!
+  
+
+How to win this game?
+------------------------------------
+* Find the exit of the maze(you will see a bed right there).
+* Don't let your life be less than 0 or you will be back to the original point.
+
+
+Favorite part
+------------------------------------
+Math mission and Pickup
+
+Hardest part
+------------------------------------
+Math misssion
+
+
+
+
+
