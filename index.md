@@ -147,7 +147,7 @@ Running_guy
 
 Play_tag
 ================================================
-[Play!](Play_tag_webgl1/index.html) 
+[Play!](Play_tag_webgl2/index.html) 
 
 
 
